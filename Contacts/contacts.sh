@@ -27,5 +27,6 @@ echo "10,CQ SP9,2609,Group All,Off,None" >> "$dt"_contacts.csv
 
 
 awk -v var=11 -F';' '/(S(P|Q|O)[0-9][A-Z]{1,4})/ {print var++","$2" "$4","$3",Private Call,Off,None"}' contacts.csv >> "$dt"_contacts.csv
+rm contacts.csv
 
 echo "List generated"
