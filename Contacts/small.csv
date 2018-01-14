@@ -1,0 +1,11 @@
+Number,Name,Call ID,Type,Ring Style,Call Receive Tone
+0,LOCAL,9,Group All,Off,None
+1,CQ SP,260,Group All,Off,None
+2,CQ SP1,2601,Group All,Off,None
+3,CQ SP2,2602,Group All,Off,None
+4,CQ SP3,2603,Group All,Off,None
+5,CQ SP4,2604,Group All,Off,None
+6,CQ SP5,2605,Group All,Off,None
+7,CQ SP6,2606,Group All,Off,None
+8,CQ SP7,2607,Group All,Off,None
+9,CQ SP8,2608,Group All,Off,None
